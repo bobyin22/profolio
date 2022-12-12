@@ -1,0 +1,9 @@
+/* body {
+  background-color: #778899;
+} */
+
+.bottonphoto {
+  margin: 80px;
+  display: flex;
+  justify-content: center;
+}

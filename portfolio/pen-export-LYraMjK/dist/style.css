@@ -1,0 +1,20 @@
+body {
+  background-color: #778899;
+}
+
+h3 {
+  color: white;
+  font-size: 50px;
+  background-color: #yellow;
+}
+
+p {
+  color: tomato;
+  font-size: 25px;
+}
+
+.bottonphoto {
+  margin: 80px;
+  display: flex;
+  justify-content: center;
+}
